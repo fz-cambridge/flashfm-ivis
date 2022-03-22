@@ -21,9 +21,6 @@ For more information, visit:
 ## Availability and Implementation
 *flashfm-ivis* is an open-source software under the MIT license. It is available as an interactive web-based tool [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/) and as an R package. Code and documentation are available at [https://github.com/fz-cambridge](https://github.com/fz-cambridge) and [https://github.com/jennasimit](https://github.com/jennasimit). Additional features can be downloaded as standalone R libraries to encourage reuse. 
 
-## Dependencies
-The following [R](https://www.r-project.org/) (version 4.0.0+) packages are required:
-
 ## Installation
 Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from this GitHub repo and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
 
