@@ -9,7 +9,7 @@
 Also available, *finemap-ivis* for interactive visualisation of single-trait fine-mapping results.
 
 Accompanying paper:
-> Adding paper here...
+> Adding the bioRxiv version paper here...
 
 For more information, visit:
 > flashfm-ivis: [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/)   
