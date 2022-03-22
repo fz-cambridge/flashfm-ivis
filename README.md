@@ -27,5 +27,8 @@ The following [R](https://www.r-project.org/) (version 4.0.0+) packages are requ
 ## Installation
 
 ## Authors
+   - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/)(University of Cambridge)
+   - [Adam S Butterworth](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/adam-butterworth/)(University of Cambridge)
+   - [Feng Zhou](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/feng-zhou/)(University of Cambridge)
 
 ## Further references
