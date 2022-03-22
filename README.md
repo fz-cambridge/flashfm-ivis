@@ -34,9 +34,17 @@ The authors thank Jana Soenksen and Inês Barroso, both from the Exeter Centre o
 
 ## Further references
 > *FINEMAP: efficient variable selection using summary data from genome-wide association studies.* <br />
-> Benner, C., Spencer, C. C., Havulinna, A. S., Salomaa, V., Ripatti, S., & Pirinen, M.(2016). 
+> Benner, C., Spencer, C. C., Havulinna, A. S., Salomaa, V., Ripatti, S., & Pirinen, M.(2016). <br />
 > Bioinformatics, 32(10), 1493-1501. [https://doi.org/10.1093/bioinformatics/btw018](https://doi.org/10.1093/bioinformatics/btw018).
 
 > *The flashfm approach for fine-mapping multiple quantitative traits.* <br />
-> Hernandez, N., Soenksen, J., Newcombe, P., Sandhu, M., Barroso, I., Wallace, C., Asimit, J.L. (2021).
+> Hernandez, N., Soenksen, J., Newcombe, P., Sandhu, M., Barroso, I., Wallace, C., Asimit, J.L. (2021).<br />
 > Nat Commun 12, 6147. [https://doi.org/10.1038/s41467-021-26364-y](https://doi.org/10.1038/s41467-021-26364-y).
+
+> *Fine-mapping genetic associations.* <br />
+> Hutchinson, A., Asimit, J., Wallace, C. (2020). <br />
+> Human Molecular Genetics, Volume 29, Issue R1, Pages R81–R88, [https://doi.org/10.1093/hmg/ddaa148](https://doi.org/10.1093/hmg/ddaa148).
+
+> *JAM: a scalable Bayesian framework for joint analysis of marginal SNP effects.* <br />
+> Newcombe, P. J., Conti, D. V. & Richardson, S. (2016). <br />
+> Genet. Epidemiol. 40, 188–201 [https://doi.org/10.1002/gepi.21953](https://doi.org/10.1002/gepi.21953).
