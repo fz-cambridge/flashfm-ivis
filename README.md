@@ -31,3 +31,12 @@ Users can directly use the online version of these tools without installing any 
 
 ## Acknowledgements
 The authors thank Jana Soenksen and Inês Barroso, both from the Exeter Centre of Excellence for Diabetes Research (EXCEED), University of Exeter Medical School, Exeter, UK, for their valuable feedback and suggestions.
+
+## Further references
+> *FINEMAP: efficient variable selection using summary data from genome-wide association studies.* <br />
+> Benner, C., Spencer, C. C., Havulinna, A. S., Salomaa, V., Ripatti, S., & Pirinen, M.(2016). 
+> Bioinformatics, 32(10), 1493-1501. [https://doi.org/10.1093/bioinformatics/btw018](https://doi.org/10.1093/bioinformatics/btw018).
+
+> *The flashfm approach for fine-mapping multiple quantitative traits.* <br />
+> Hernandez, N., Soenksen, J., Newcombe, P., Sandhu, M., Barroso, I., Wallace, C., Asimit, J.L. (2021).
+> Nat Commun 12, 6147. [https://doi.org/10.1038/s41467-021-26364-y](https://doi.org/10.1038/s41467-021-26364-y).
