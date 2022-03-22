@@ -25,10 +25,12 @@ For more information, visit:
 The following [R](https://www.r-project.org/) (version 4.0.0+) packages are required:
 
 ## Installation
+Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from this GitHub repo and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
 
 ## Authors
    - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/) (University of Cambridge)
    - [Adam Butterworth](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/adam-butterworth/) (University of Cambridge)
    - [Feng Zhou](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/feng-zhou/) (University of Cambridge)
 
-## Further references
+## Acknowledgements
+The authors thank Jana Soenksen and Inês Barroso, both from the Exeter Centre of Excellence for Diabetes Research (EXCEED), University of Exeter Medical School, Exeter, UK, for their valuable feedback and suggestions.
