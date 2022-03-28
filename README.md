@@ -13,7 +13,9 @@ Accompanying paper:
 > Feng Zhou, Adam S Butterworth, Jennifer L Asimit <br />
 > bioRxiv 2022.03.22.485315; doi: https://doi.org/10.1101/2022.03.22.485315
 
-The detailed supplementary materials or READ file can be downloaded here: [bioRxiv Supplementary Material](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315.full.pdf)
+The pdf file of this paper: [bioRxiv version](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315.full.pdf).
+
+The detailed supplementary materials or READ file can be downloaded here: [bioRxiv Supplementary Material](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315/DC1/embed/media-1.pdf).
 
 For more information, visit:
 > flashfm-ivis: [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/)   
