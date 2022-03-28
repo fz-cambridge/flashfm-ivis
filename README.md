@@ -9,7 +9,11 @@
 Also available, *finemap-ivis* for interactive visualisation of single-trait fine-mapping results.
 
 Accompanying paper:
-> Adding the bioRxiv version paper here...
+> flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits
+> Feng Zhou, Adam S Butterworth, Jennifer L Asimit
+> bioRxiv 2022.03.22.485315; doi: https://doi.org/10.1101/2022.03.22.485315
+
+The detailed supplementary materials or READ file can be downloaded here: [bioRxiv Supplementary Material](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315.full.pdf)
 
 For more information, visit:
 > flashfm-ivis: [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/)   
