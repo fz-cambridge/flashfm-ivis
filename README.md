@@ -54,3 +54,5 @@ The authors thank Jana Soenksen and Inês Barroso, both from the Exeter Centre o
 > *JAM: a scalable Bayesian framework for joint analysis of marginal SNP effects.* <br />
 > Newcombe, P. J., Conti, D. V. & Richardson, S. (2016). <br />
 > Genet. Epidemiol. 40, 188–201. [https://doi.org/10.1002/gepi.21953](https://doi.org/10.1002/gepi.21953).
+
+
