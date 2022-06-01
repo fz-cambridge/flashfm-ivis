@@ -4,11 +4,11 @@
 [![DOI](https://zenodo.org/badge/461200048.svg)](https://zenodo.org/badge/latestdoi/461200048)
 <!-- badges: end -->
 
-*flashfm-ivis*: interactive visualisation for fine-mapping of multiple quantitative traits.
+[*flashfm-ivis*](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/): interactive visualisation for fine-mapping of multiple quantitative traits.
 
-Also available, *finemap-ivis* for interactive visualisation of single-trait fine-mapping results.
+Also available, [*finemap-ivis*](http://shiny.mrc-bsu.cam.ac.uk/apps/finemap-ivis/) for interactive visualisation of single-trait fine-mapping results.
 
-The source codes and pre-loaded datasets [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW).
+The source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW).
 
 Accompanying paper:
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits* <br />
