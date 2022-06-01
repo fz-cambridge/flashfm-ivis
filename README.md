@@ -8,6 +8,8 @@
 
 Also available, *finemap-ivis* for interactive visualisation of single-trait fine-mapping results.
 
+The source codes and pre-loaded datasets [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW).
+
 Accompanying paper:
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits* <br />
 > Feng Zhou, Adam S Butterworth, Jennifer L Asimit <br />
