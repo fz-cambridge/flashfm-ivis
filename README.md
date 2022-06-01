@@ -8,7 +8,7 @@
 
 Also available, [*finemap-ivis*](http://shiny.mrc-bsu.cam.ac.uk/apps/finemap-ivis/) for interactive visualisation of single-trait fine-mapping results.
 
-The source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW). (Please Note: The updated *Version-2022-05-30* requires a few pre-loaded large datasets (i.e.: approx. 600MB), therefore we saved all source code and datasets in the [public Google Drive](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW) for users to download easily. Users just need download the whole folders into the local machine and run the app.R file.) 
+The source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW). (Please Note: The latest updated *Version-2022-05-30* requires a few pre-loaded large datasets (i.e.: approx. 600MB), therefore we saved all source code and datasets in the [public Google Drive](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW) for users to download easily. Users just need download the whole folders into the local machine and run the app.R file.) 
 
 Accompanying paper:
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits* <br />
