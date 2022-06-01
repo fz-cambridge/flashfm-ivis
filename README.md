@@ -8,7 +8,7 @@
 
 Also available, [*finemap-ivis*](http://shiny.mrc-bsu.cam.ac.uk/apps/finemap-ivis/) for interactive visualisation of single-trait fine-mapping results.
 
-The source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW). (Please Note: The latest updated *Version-2022-05-30* requires a few pre-loaded large datasets (i.e.: approx. 600MB), therefore we saved all source code and datasets in the [public Google Drive](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW) for users to download easily. Users just need download the whole folders into the local machine and run the app.R file.) 
+The source code and pre-loaded dataset [can be downloaded publicly here](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW). (Please Note: The latest updated *Version-2022-05-30* requires a few pre-loaded large datasets (i.e.: approx. 600MB), therefore we saved all source code and datasets in the [public online Google Drive](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW) for users to download easily. Users just need download the whole folders into the local machine and run the app.R file on the [RStudio](https://www.rstudio.com).) 
 
 Accompanying paper:
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits* <br />
@@ -30,7 +30,7 @@ For more information, visit:
 *flashfm-ivis* is an open-source software under the MIT license. It is available as an interactive web-based tool [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/) and as an R package. Code and documentation are available at [https://github.com/fz-cambridge](https://github.com/fz-cambridge) and [https://github.com/jennasimit](https://github.com/jennasimit). Additional features can be downloaded as standalone R libraries to encourage reuse. 
 
 ## Installation
-Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from this GitHub repo and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
+Users can directly use the online version of these tools without installing any packages or previous experience in programming languages. If users would like to run analyses in their local machines, then please download the codes from the [public online Google Drive](https://drive.google.com/drive/folders/167XScfXLekP5UmJcmM0_YK2bp0tCKcYW) and open the Rshiny app in the local [RStudio](https://www.rstudio.com).
 
 ## Authors
    - [Jennifer Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/) (University of Cambridge)
