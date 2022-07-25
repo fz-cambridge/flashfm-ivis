@@ -13,12 +13,7 @@ The source code and pre-loaded dataset [can be downloaded publicly here](https:/
 Accompanying paper:
 > *flashfm-ivis: interactive visualisation for fine-mapping of multiple quantitative traits* <br />
 > Feng Zhou, Adam S Butterworth, Jennifer L Asimit <br />
-> bioRxiv 2022.03.22.485315; doi: https://doi.org/10.1101/2022.03.22.485315 <br />
-> Now, the paper is published in *Bioinformatics*, https://doi.org/10.1093/bioinformatics/btac453
-
-The pdf file of this paper: [bioRxiv version](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315.full.pdf).
-
-The detailed supplementary material can be downloaded here: [bioRxiv Supplementary Material](https://www.biorxiv.org/content/biorxiv/early/2022/03/25/2022.03.22.485315/DC1/embed/media-1.pdf).
+> The paper and its supplementary material are published in *Bioinformatics*, https://doi.org/10.1093/bioinformatics/btac453
 
 For more information, visit:
 > flashfm-ivis: [http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/](http://shiny.mrc-bsu.cam.ac.uk/apps/flashfm-ivis/)   
